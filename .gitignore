@@ -1,0 +1,7 @@
+zephyr-sdk/
+zephyr-sdk-*-setup.run
+.west/
+tools/
+zephyr/
+dfu-util/
+modules/

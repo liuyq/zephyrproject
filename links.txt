@@ -1,0 +1,15 @@
+1. Flash for 96Boards Carbon
+   https://docs.zephyrproject.org/latest/boards/arm/96b_carbon/doc/index.html
+
+2. Flash for 96Boards Carbon nRF51
+   https://docs.zephyrproject.org/latest/boards/arm/96b_carbon_nrf51/doc/index.html#
+
+3. Bringing the Carbon to life - Bluetooth
+   https://www.96boards.org/blog/bringing-the-carbon-to-life-bluetooth/
+
+4. Running MicroPython on 96Boards Carbon
+   https://kushaldas.in/posts/running-micropython-on-96boards-carbon.html
+
+5. Generic Device Support
+   https://test-microplatform-docs.readthedocs.io/en/stable/device-support/index.html
+   https://test-microplatform-docs.readthedocs.io/en/stable/device-support/stm32f4x.html
